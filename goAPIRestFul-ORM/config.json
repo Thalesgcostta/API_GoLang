@@ -1,0 +1,12 @@
+{
+    "api": {
+      "port": "9000"
+    },
+    "database": {
+      "host": "localhost",
+      "user": "user_time",
+      "password": "1122",
+      "name": "api_time"
+    }
+  }
+  
